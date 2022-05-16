@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quaky</string>
+    <string name="oops_no_internet_connection">OOPS! No internet connection</string>
+</resources>
